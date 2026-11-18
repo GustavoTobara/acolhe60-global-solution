@@ -1,0 +1,411 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos e direitos",
+    "titulo": "Carteira da Pessoa Idosa",
+    "palavras_chave": [
+      "carteira do idoso",
+      "carteira da pessoa idosa",
+      "carteira",
+      "documento do idoso",
+      "emitir carteira"
+    ],
+    "resposta": "Documento gratuito que comprova o direito à gratuidade ou desconto em viagens de ônibus, trem e barco entre estados. É para quem tem 60 anos ou mais, renda individual de até 2 salários mínimos e está no CadÚnico.",
+    "documentos": [
+      "Conta gov.br (CPF e senha)",
+      "Número do NIS (vem do CadÚnico)"
+    ],
+    "onde": "Pela internet ou no CRAS, se precisar de ajuda",
+    "fonte": "https://www.gov.br/pt-br/servicos/adquirir-carteira-do-idoso",
+    "verificado_em": "2026-11-18",
+    "publico": "60 anos ou mais",
+    "passos": [
+      "Confira se a pessoa está no CadÚnico. Se não estiver, procure o CRAS do bairro para fazer a inscrição.",
+      "Entre no site carteiraidoso.cidadania.gov.br com a conta gov.br.",
+      "Escolha 'Emitir Carteira' e confirme os dados.",
+      "Baixe ou imprima a carteira. Ela vale por 2 anos."
+    ],
+    "telefone": "Disque Social 121 (gratuito, 7h às 19h)",
+    "atencao": "Se o sistema estiver fora do ar, o CRAS pode dar uma declaração provisória válida por 180 dias."
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos e direitos",
+    "titulo": "Atendimento prioritário (fila preferencial)",
+    "palavras_chave": [
+      "prioridade",
+      "fila",
+      "furar fila",
+      "80 anos",
+      "oitenta anos",
+      "estatuto do idoso",
+      "direitos do idoso",
+      "passar na frente"
+    ],
+    "resposta": "O Estatuto da Pessoa Idosa garante atendimento prioritário a quem tem 60 anos ou mais em órgãos públicos, bancos e comércio. Quem tem 80 anos ou mais tem prioridade especial, à frente dos demais idosos.",
+    "documentos": [
+      "Documento oficial com foto"
+    ],
+    "onde": "Qualquer órgão público, banco, posto de saúde ou comércio",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "verificado_em": "2026-11-18",
+    "publico": "60 anos ou mais",
+    "passos": [
+      "Ao chegar, diga que tem 60 anos ou mais e peça a fila preferencial.",
+      "Mostre um documento com foto se pedirem.",
+      "Se o atendimento for negado, peça para falar com o responsável pelo local.",
+      "Se continuar sendo negado, registre a reclamação no Disque 100."
+    ],
+    "telefone": "Disque 100 (gratuito)",
+    "atencao": ""
+  },
+  {
+    "id": 3,
+    "categoria": "INSS e benefícios",
+    "titulo": "BPC: um salário mínimo para idoso de baixa renda",
+    "palavras_chave": [
+      "bpc",
+      "salario minimo",
+      "nunca contribui",
+      "nunca contribuiu",
+      "nunca paguei inss",
+      "sem aposentadoria",
+      "beneficio para idoso",
+      "nao tenho renda"
+    ],
+    "resposta": "O BPC paga um salário mínimo por mês para quem tem 65 anos ou mais e renda familiar de até 1/4 do salário mínimo por pessoa. Não precisa ter contribuído para o INSS. Não tem 13º e não deixa pensão.",
+    "documentos": [
+      "RG ou CNH e CPF da pessoa idosa",
+      "CPF de todos que moram na casa"
+    ],
+    "onde": "Meu INSS (internet) ou atendimento agendado pelo 135",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-idoso",
+    "verificado_em": "2026-11-18",
+    "publico": "65 anos ou mais",
+    "passos": [
+      "Faça ou atualize o CadÚnico no CRAS. Ele precisa estar atualizado nos últimos 2 anos, com o CPF de todos da casa.",
+      "Entre no Meu INSS (site ou aplicativo) com a conta gov.br.",
+      "Em 'Do que você precisa?', digite 'Benefício assistencial ao idoso' e siga as instruções.",
+      "Acompanhe em 'Consultar pedidos'. A resposta leva em média 45 dias."
+    ],
+    "telefone": "Central 135",
+    "atencao": "O pedido é gratuito. Desconfie de quem cobra para 'garantir' o benefício."
+  },
+  {
+    "id": 4,
+    "categoria": "INSS e benefícios",
+    "titulo": "Prova de vida do INSS",
+    "palavras_chave": [
+      "prova de vida",
+      "reconhecimento facial",
+      "biometria",
+      "beneficio suspenso",
+      "provar que estou vivo"
+    ],
+    "resposta": "Desde 2023 a prova de vida é feita pelo próprio INSS, cruzando dados como vacina, voto, documento renovado ou uso do gov.br. Só é preciso fazer alguma coisa se chegar um aviso oficial.",
+    "documentos": [
+      "Celular com o aplicativo gov.br ou documento com foto, se for ao banco"
+    ],
+    "onde": "Aplicativo gov.br, Meu INSS ou banco que paga o benefício",
+    "fonte": "https://www.gov.br/inss/pt-br/assuntos/te-ligaram-ou-foram-a-sua-casa-dizendo-que-e-para-fazer-a-prova-de-vida-do-inss-cuidado-e-golpe",
+    "verificado_em": "2026-11-18",
+    "publico": "Aposentados e pensionistas",
+    "passos": [
+      "Não faça nada se não recebeu aviso oficial.",
+      "Se recebeu aviso, confira se ele aparece no Meu INSS ou na caixa postal do aplicativo gov.br.",
+      "Faça a prova de vida pelo aplicativo gov.br, com reconhecimento facial, ou no banco onde recebe o benefício.",
+      "Se tiver dúvida, ligue no 135."
+    ],
+    "telefone": "Central 135 (segunda a sábado, 7h às 22h)",
+    "atencao": "O INSS não liga nem vai à casa de ninguém para fazer prova de vida. Ligação ou visita pedindo dados é golpe."
+  },
+  {
+    "id": 5,
+    "categoria": "INSS e benefícios",
+    "titulo": "Bloquear o benefício para empréstimo consignado",
+    "palavras_chave": [
+      "emprestimo",
+      "bloquear emprestimo",
+      "emprestimo que nao fiz",
+      "desconto no beneficio",
+      "desconto indevido",
+      "banco ligando",
+      "nao fiz",
+      "nao contratei",
+      "nao pedi",
+      "emprestimo no meu nome"
+    ],
+    "resposta": "O aposentado ou pensionista pode deixar o benefício bloqueado para empréstimo consignado. Assim, nenhum banco consegue fazer empréstimo descontado na aposentadoria sem que a própria pessoa desbloqueie antes.",
+    "documentos": [
+      "Conta gov.br prata ou ouro"
+    ],
+    "onde": "Meu INSS (site ou aplicativo)",
+    "fonte": "https://www.gov.br/inss/pt-br/centrais-de-conteudo/imagens/Passoapassodesbloqueiocomcontabancria.pdf",
+    "verificado_em": "2026-11-18",
+    "publico": "Aposentados e pensionistas",
+    "passos": [
+      "Entre no Meu INSS com a conta gov.br.",
+      "Em 'Do que você precisa?', digite 'bloquear'.",
+      "Escolha 'Bloquear/Desbloquear Benefício para Empréstimo Consignado' e siga as instruções.",
+      "Para conferir descontos, abra o 'Extrato de Empréstimos' no próprio Meu INSS."
+    ],
+    "telefone": "Central 135",
+    "atencao": "Se aparecer um empréstimo que você não fez, procure o banco e registre reclamação no consumidor.gov.br."
+  },
+  {
+    "id": 6,
+    "categoria": "INSS e benefícios",
+    "titulo": "Entrar no Meu INSS e na conta gov.br",
+    "palavras_chave": [
+      "meu inss",
+      "inss",
+      "conta gov",
+      "gov br",
+      "esqueci a senha",
+      "extrato",
+      "aplicativo do inss",
+      "135"
+    ],
+    "resposta": "O Meu INSS é o canal oficial para pedir benefícios, ver extrato e acompanhar pedidos. O acesso é feito com CPF e a senha da conta gov.br, a mesma de outros serviços do governo.",
+    "documentos": [
+      "CPF",
+      "Celular ou e-mail cadastrado no gov.br"
+    ],
+    "onde": "meu.inss.gov.br ou aplicativo Meu INSS",
+    "fonte": "https://www.gov.br/inss/pt-br/e-fake-inss-nao-liga-da-central-135-para-pedir-dados-aos-cidadaos",
+    "verificado_em": "2026-11-18",
+    "publico": "Todos",
+    "passos": [
+      "Baixe o aplicativo 'Meu INSS' na loja oficial do celular ou acesse meu.inss.gov.br.",
+      "Toque em 'Entrar com gov.br' e digite CPF e senha.",
+      "Se esqueceu a senha, use a opção de recuperar senha do próprio gov.br.",
+      "Se não conseguir pela internet, ligue no 135 para ser atendido ou agendar atendimento."
+    ],
+    "telefone": "Central 135 (segunda a sábado, 7h às 22h)",
+    "atencao": "Digite sempre o endereço que termina em gov.br. Não entre por links de mensagens ou anúncios."
+  },
+  {
+    "id": 7,
+    "categoria": "Saúde",
+    "titulo": "Remédio de graça na Farmácia Popular",
+    "palavras_chave": [
+      "remedio",
+      "remedio gratis",
+      "farmacia popular",
+      "pressao",
+      "diabetes",
+      "receita",
+      "farmacia",
+      "colesterol"
+    ],
+    "resposta": "Desde fevereiro de 2025 todos os itens da lista da Farmácia Popular são gratuitos, entre eles remédios para pressão alta, diabetes, asma, colesterol, Parkinson, osteoporose e glaucoma.",
+    "documentos": [
+      "Receita médica válida",
+      "Documento oficial com foto",
+      "CPF"
+    ],
+    "onde": "Farmácias credenciadas no programa",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular",
+    "verificado_em": "2026-11-18",
+    "publico": "Todos",
+    "passos": [
+      "Procure uma farmácia com a placa 'Aqui tem Farmácia Popular'.",
+      "Leve a receita dentro da validade. Pode ser do SUS ou de médico particular.",
+      "Apresente documento com foto e CPF.",
+      "Confira os dados e assine o comprovante que a farmácia entregar."
+    ],
+    "telefone": "Disque Saúde 136",
+    "atencao": ""
+  },
+  {
+    "id": 8,
+    "categoria": "Saúde",
+    "titulo": "Fralda geriátrica de graça",
+    "palavras_chave": [
+      "fralda",
+      "fralda gratis",
+      "fralda geriatrica",
+      "incontinencia",
+      "fralda de adulto"
+    ],
+    "resposta": "A Farmácia Popular entrega fralda geriátrica de graça para pessoas com incontinência que tenham 60 anos ou mais ou sejam pessoas com deficiência.",
+    "documentos": [
+      "Prescrição, laudo ou atestado médico",
+      "Documento oficial com foto",
+      "CPF"
+    ],
+    "onde": "Farmácias credenciadas no programa",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular",
+    "verificado_em": "2026-11-18",
+    "publico": "60 anos ou mais ou pessoa com deficiência",
+    "passos": [
+      "Peça ao médico a prescrição, laudo ou atestado que mostre a necessidade de fralda.",
+      "Procure uma farmácia com a placa 'Aqui tem Farmácia Popular'.",
+      "Apresente a prescrição, documento com foto e CPF.",
+      "A quantidade e a frequência de retirada seguem o que está na receita."
+    ],
+    "telefone": "Disque Saúde 136",
+    "atencao": ""
+  },
+  {
+    "id": 9,
+    "categoria": "Saúde",
+    "titulo": "Vacina da gripe para 60+",
+    "palavras_chave": [
+      "vacina",
+      "gripe",
+      "vacina da gripe",
+      "posto de saude",
+      "ubs",
+      "campanha de vacinacao"
+    ],
+    "resposta": "Pessoas com 60 anos ou mais fazem parte do grupo prioritário da vacina contra a gripe (influenza). A vacina é gratuita, aplicada uma vez por ano no posto de saúde.",
+    "documentos": [
+      "CPF ou Cartão SUS",
+      "Caderneta de vacinação, se tiver"
+    ],
+    "onde": "UBS (posto de saúde)",
+    "fonte": "https://www.gov.br/saude/pt-br/vacinacao",
+    "verificado_em": "2026-11-18",
+    "publico": "60 anos ou mais",
+    "passos": [
+      "Procure a UBS (posto de saúde) mais próxima.",
+      "Confira o horário da sala de vacinação antes de sair de casa.",
+      "Leve os documentos e a caderneta de vacinação, se tiver.",
+      "Pergunte também sobre outras vacinas indicadas para a sua idade."
+    ],
+    "telefone": "Disque Saúde 136",
+    "atencao": ""
+  },
+  {
+    "id": 10,
+    "categoria": "Transporte",
+    "titulo": "Ônibus, metrô e trem de graça em São Paulo",
+    "palavras_chave": [
+      "onibus",
+      "onibus gratis",
+      "bilhete unico",
+      "metro",
+      "sptrans",
+      "catraca",
+      "andar de onibus"
+    ],
+    "resposta": "Na cidade de São Paulo, quem tem 60 anos ou mais não paga ônibus municipal, metrô e trem. De 65 anos em diante usa o Bilhete Único Especial da Pessoa Idosa. De 60 a 64 anos usa o Bilhete Único comum cadastrado, com recarga da gratuidade todo mês.",
+    "documentos": [
+      "RG e CPF",
+      "Comprovante de residência de até 3 meses",
+      "Foto recente"
+    ],
+    "onde": "atendimento.sptrans.com.br ou posto de atendimento da SPTrans",
+    "fonte": "https://atendimento.sptrans.com.br",
+    "verificado_em": "2026-11-18",
+    "publico": "60 anos ou mais (Grande SP)",
+    "passos": [
+      "65 anos ou mais: peça o Bilhete Único Especial da Pessoa Idosa no site de atendimento da SPTrans ou em um posto de atendimento.",
+      "60 a 64 anos: use o Bilhete Único comum cadastrado no seu nome.",
+      "Todo mês, encoste o cartão no validador para carregar a gratuidade: uma vez no ônibus e outra no metrô ou trem.",
+      "O cartão especial chega pelo Correio no endereço informado."
+    ],
+    "telefone": "Central 156 da Prefeitura",
+    "atencao": "Outras cidades da Grande SP têm regras próprias para os ônibus municipais. Confira na prefeitura da sua cidade."
+  },
+  {
+    "id": 11,
+    "categoria": "Transporte",
+    "titulo": "Viagem de graça para outro estado",
+    "palavras_chave": [
+      "viagem",
+      "viagem gratis",
+      "onibus de viagem",
+      "desconto na passagem",
+      "passagem gratis"
+    ],
+    "resposta": "Em ônibus, trem e barco entre estados, cada veículo reserva 2 vagas gratuitas para pessoas com 60 anos ou mais e renda de até 2 salários mínimos. Se essas vagas já estiverem ocupadas, a pessoa tem pelo menos 50% de desconto.",
+    "documentos": [
+      "Carteira da Pessoa Idosa ou comprovante de renda",
+      "Documento oficial com foto"
+    ],
+    "onde": "Guichê da empresa de ônibus na rodoviária",
+    "fonte": "https://www.gov.br/pt-br/servicos/adquirir-carteira-do-idoso",
+    "verificado_em": "2026-11-18",
+    "publico": "60 anos ou mais com renda até 2 salários mínimos",
+    "passos": [
+      "Tenha a Carteira da Pessoa Idosa ou um comprovante de renda de até 2 salários mínimos.",
+      "Procure o guichê da empresa de ônibus com antecedência e peça a vaga gratuita.",
+      "Se as vagas gratuitas já foram usadas, peça o desconto de 50%.",
+      "Apresente documento com foto no embarque."
+    ],
+    "telefone": "Disque Social 121",
+    "atencao": ""
+  },
+  {
+    "id": 12,
+    "categoria": "Proteção e segurança",
+    "titulo": "Denunciar violência ou maus-tratos contra pessoa idosa",
+    "palavras_chave": [
+      "violencia",
+      "denunciar",
+      "disque 100",
+      "maus tratos",
+      "abandonado",
+      "pega meu dinheiro",
+      "pegaram meu dinheiro",
+      "ameaca",
+      "negligencia"
+    ],
+    "resposta": "Violência física, psicológica, financeira, abandono e negligência contra pessoas idosas podem ser denunciados no Disque 100. A ligação é gratuita e as denúncias envolvendo pessoas idosas têm prioridade.",
+    "documentos": [
+      "O que aconteceu, onde e desde quando, se souber"
+    ],
+    "onde": "Disque 100, WhatsApp ou site da Ouvidoria Nacional de Direitos Humanos",
+    "fonte": "https://www.gov.br/mdh/pt-br/ondh",
+    "verificado_em": "2026-11-18",
+    "publico": "Qualquer pessoa pode denunciar",
+    "passos": [
+      "Se houver perigo agora, ligue 190 (Polícia Militar).",
+      "Para denunciar, ligue 100. A ligação é gratuita e pode ser anônima.",
+      "Também dá para denunciar pelo WhatsApp (61) 99611-0100.",
+      "Anote o número de protocolo que o atendente informar."
+    ],
+    "telefone": "Disque 100 ou 190 em emergência",
+    "atencao": ""
+  },
+  {
+    "id": 13,
+    "categoria": "Proteção e segurança",
+    "titulo": "Ligação ou mensagem suspeita (golpes)",
+    "palavras_chave": [
+      "golpe",
+      "ligaram do inss",
+      "mensagem do inss",
+      "link",
+      "pix",
+      "pediram senha",
+      "pediram codigo",
+      "atualizar cadastro",
+      "ligacao estranha",
+      "atualizar o cadastro",
+      "mandaram mensagem",
+      "pediram minha senha",
+      "senha do banco",
+      "mensagem",
+      "whatsapp"
+    ],
+    "resposta": "O INSS não liga, não manda link e não vai à casa das pessoas pedindo dados, senha, código ou pagamento. Mensagens oficiais aparecem no Meu INSS, na caixa postal do aplicativo gov.br ou no WhatsApp oficial 'Governo do Brasil' com selo azul.",
+    "documentos": [
+      "Nenhum. Não envie documento nem dado para quem ligou ou mandou mensagem"
+    ],
+    "onde": "Meu INSS, aplicativo gov.br ou Central 135",
+    "fonte": "https://www.gov.br/inss/pt-br/assuntos/te-ligaram-ou-foram-a-sua-casa-dizendo-que-e-para-fazer-a-prova-de-vida-do-inss-cuidado-e-golpe",
+    "verificado_em": "2026-11-18",
+    "publico": "Todos",
+    "passos": [
+      "Desligue a ligação ou não responda a mensagem.",
+      "Não clique em links e não informe CPF, senha, código ou dados do banco.",
+      "Confira a informação você mesmo no Meu INSS ou ligando no 135.",
+      "Se já passou dados ou dinheiro, avise o banco na hora e registre boletim de ocorrência."
+    ],
+    "telefone": "Central 135",
+    "atencao": "Código que chega por SMS é como a senha do cartão: não passe para ninguém."
+  }
+]

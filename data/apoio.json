@@ -1,0 +1,200 @@
+{
+  "sinonimos": {
+    "remedio": [
+      "remedios",
+      "medicamento",
+      "medicamentos",
+      "comprimido",
+      "comprimidos",
+      "medicacao"
+    ],
+    "gratis": [
+      "gratuito",
+      "gratuita",
+      "gratuitos",
+      "gratuitas",
+      "de graca",
+      "sem pagar",
+      "sem custo",
+      "gratuidade",
+      "nao pagar"
+    ],
+    "onibus": [
+      "busao",
+      "coletivo",
+      "conducao"
+    ],
+    "metro": [
+      "trem",
+      "trens",
+      "cptm"
+    ],
+    "emprestimo": [
+      "emprestimos",
+      "consignado",
+      "consignados"
+    ],
+    "golpe": [
+      "golpes",
+      "golpista",
+      "golpistas",
+      "fraude",
+      "fraudes",
+      "enganaram",
+      "enganado",
+      "enganada",
+      "falso",
+      "falsa",
+      "suspeita",
+      "suspeito"
+    ],
+    "carteira": [
+      "carteirinha"
+    ],
+    "vacina": [
+      "vacinas",
+      "vacinar",
+      "vacinacao",
+      "imunizacao"
+    ],
+    "gripe": [
+      "influenza"
+    ],
+    "fralda": [
+      "fraldas"
+    ],
+    "viagem": [
+      "viajar",
+      "viagens",
+      "passagem",
+      "passagens",
+      "rodoviaria",
+      "interestadual",
+      "outro estado"
+    ],
+    "violencia": [
+      "maus tratos",
+      "agressao",
+      "agredido",
+      "agredida",
+      "bate",
+      "bateu",
+      "batem",
+      "abandono",
+      "abandonada",
+      "humilha",
+      "xinga"
+    ],
+    "denunciar": [
+      "denuncia",
+      "denuncio",
+      "denunciem"
+    ],
+    "bloquear": [
+      "bloqueio",
+      "travar",
+      "impedir"
+    ],
+    "desconto": [
+      "descontos",
+      "descontaram",
+      "descontando",
+      "tiraram dinheiro"
+    ],
+    "prioridade": [
+      "preferencial",
+      "prioritario",
+      "prioritaria",
+      "atendimento prioritario"
+    ],
+    "senha": [
+      "senhas"
+    ],
+    "pressao": [
+      "hipertensao",
+      "pressao alta"
+    ],
+    "diabetes": [
+      "diabete",
+      "acucar no sangue",
+      "diabetico",
+      "diabetica"
+    ],
+    "whatsapp": [
+      "zap",
+      "zapzap",
+      "wpp"
+    ],
+    "bpc": [
+      "loas",
+      "beneficio assistencial",
+      "salario do idoso"
+    ],
+    "prova de vida": [
+      "comprovar que estou vivo",
+      "provar que estou vivo",
+      "prova vida"
+    ],
+    "cadunico": [
+      "cad unico",
+      "cadastro unico"
+    ],
+    "ubs": [
+      "postinho",
+      "posto de saude"
+    ],
+    "abandonado": [
+      "abandonaram",
+      "largado",
+      "largada",
+      "sozinho sem ajuda"
+    ],
+    "ligaram": [
+      "ligou",
+      "ligacao",
+      "telefonaram",
+      "telefonema"
+    ],
+    "codigo": [
+      "codigos",
+      "codigo do sms"
+    ]
+  },
+  "telefones": [
+    [
+      "135",
+      "INSS (aposentadoria, BPC, prova de vida)",
+      "segunda a sábado, 7h às 22h"
+    ],
+    [
+      "136",
+      "Disque Saúde (Ministério da Saúde)",
+      ""
+    ],
+    [
+      "121",
+      "Disque Social (CadÚnico, Carteira da Pessoa Idosa)",
+      "7h às 19h"
+    ],
+    [
+      "100",
+      "Disque Direitos Humanos (violência contra a pessoa idosa)",
+      "ligação gratuita"
+    ],
+    [
+      "156",
+      "Prefeitura de São Paulo (SPTrans, serviços da cidade)",
+      ""
+    ],
+    [
+      "190",
+      "Polícia Militar (emergência)",
+      ""
+    ],
+    [
+      "192",
+      "SAMU (emergência médica)",
+      ""
+    ]
+  ]
+}

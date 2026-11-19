@@ -12,7 +12,7 @@
 
 ## Vídeo técnico
 
-[> COLOCAR AQUI O LINK DO YOUTUBE (não listado)](https://youtu.be/cLyxrN1vrAA)
+[Assistir ao vídeo técnico](https://youtu.be/cLyxrN1vrAA)
 
 ## Público e problema
 

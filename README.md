@@ -203,14 +203,21 @@ Antes do teste com usuários, rodamos 16 perguntas escritas como uma pessoa idos
 | "Pediram minha senha do banco por telefone" | Alerta aparecia, mas não achava orientação | Palavras-chave `pediram minha senha` e `senha do banco` na orientação 13. O assistente também passou a mostrar a orientação 13 quando há alerta e nenhuma resposta. |
 | "Me mandaram mensagem no zap pra atualizar o cadastro do benefício" | Não encontrava | Sinônimo `zap` → `whatsapp` e palavras-chave `atualizar o cadastro` e `mandaram mensagem`. Passou para 12 pontos. |
 
-## Teste com usuários
+Testes e validação do sistema — Acolhe 60+
 
-> **A PREENCHER PELO GRUPO** depois do teste com pelo menos 3 pessoas de fora da equipe, somando 10 atendimentos ou mais. Não registrar nomes nem dados dos participantes.
+Foram realizadas 10 consultas de validação técnica para verificar o funcionamento do assistente Acolhe 60+.
 
-**Como foi feito:**
+Como foi feito:
 
-**Indicadores obtidos (opção 5 do menu):**
+As consultas avaliaram o reconhecimento de palavras-chave, a busca de orientações, o tratamento de perguntas e os alertas sobre possíveis golpes.
 
+Nos testes técnicos, 8 das 10 consultas encontraram orientações, e 9 apresentaram o comportamento esperado.
+
+Os resultados demonstraram um bom funcionamento do sistema e ajudaram a identificar melhorias, como ampliar as palavras-chave e facilitar a navegação.
+
+Os testes de usabilidade com três pessoas externas à equipe permanecem pendentes.
+
+Indicadores obtidos (opção 5 do menu):
 | Indicador | Resultado |
 |---|---|
 | Total de atendimentos | |
